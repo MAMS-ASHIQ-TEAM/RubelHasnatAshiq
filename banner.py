@@ -1,0 +1,8 @@
+print("\033[92m"+"="*50)
+print("  MAM'S ASHIQ TEAM - NO.1 ETHICAL TEAM")
+print("  Founder: Ashiq | Teacher: Jyoti Mam")
+print("  Motto: We Learn To Protect, Not To Harm")
+print("="*50)
+print("  >> Team Rules Loaded Successfully <<")
+print("  >> English Version: OK | Bangla Version: OK <<")
+print("="*50+"\033[0m")
